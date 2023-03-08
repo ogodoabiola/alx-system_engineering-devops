@@ -1,2 +1,5 @@
 #!/bin/bash
-realpath 0-current_working_directory
+get_abs_filename() {
+  # $1 : relative filename
+  echo "$(cd "$(dirname "$1")" && pwd)/$(basename "$1")"
+}
