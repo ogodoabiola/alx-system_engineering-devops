@@ -1,0 +1,14 @@
+total 44
+drwxrwxr-x 2 vagrant vagrant 4096 Mar 13 19:03 .
+drwxrwxr-x 6 vagrant vagrant 4096 Mar 13 11:41 ..
+-rwxrw-r-- 1 vagrant vagrant   32 Mar 13 15:29 0-hello_world
+-rwxrw-r-- 1 vagrant vagrant   28 Mar 13 16:04 1-confused_smiley
+-rwxrw-r-- 1 vagrant vagrant   28 Mar 13 17:58 2-hellofile
+-rwxrw-r-- 1 vagrant vagrant   39 Mar 13 18:04 3-twofiles
+-rwxrw-r-- 1 vagrant vagrant   33 Mar 13 18:09 4-lastlines
+-rwxrw-r-- 1 vagrant vagrant   33 Mar 13 18:13 5-firstlines
+-rwxrw-r-- 1 vagrant vagrant   42 Mar 13 18:19 6-third_line
+-rw-rw-r-- 1 vagrant vagrant   14 Mar 13 15:29 README.md
+-rw-rw-r-- 1 vagrant vagrant    0 Mar 13 18:49 \*\\"Best School"\\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 vagrant vagrant    0 Mar 13 19:03 file
+-rw-rw-r-- 1 vagrant vagrant  939 Mar 13 18:15 iacta
